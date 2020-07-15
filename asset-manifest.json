@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Gastos/static/css/main.cc48a707.chunk.css",
+    "main.css": "/Gastos/static/css/main.79ec91ad.chunk.css",
     "main.js": "/Gastos/static/js/main.113bb52d.chunk.js",
     "main.js.map": "/Gastos/static/js/main.113bb52d.chunk.js.map",
     "runtime-main.js": "/Gastos/static/js/runtime-main.18ae09c8.js",
@@ -8,15 +8,15 @@
     "static/js/2.1ee8df4b.chunk.js": "/Gastos/static/js/2.1ee8df4b.chunk.js",
     "static/js/2.1ee8df4b.chunk.js.map": "/Gastos/static/js/2.1ee8df4b.chunk.js.map",
     "index.html": "/Gastos/index.html",
-    "precache-manifest.642d5dcb09368bbf1682bb4bb7315b3b.js": "/Gastos/precache-manifest.642d5dcb09368bbf1682bb4bb7315b3b.js",
+    "precache-manifest.03afb8eb55177896ce6de5c3882c63e4.js": "/Gastos/precache-manifest.03afb8eb55177896ce6de5c3882c63e4.js",
     "service-worker.js": "/Gastos/service-worker.js",
-    "static/css/main.cc48a707.chunk.css.map": "/Gastos/static/css/main.cc48a707.chunk.css.map",
+    "static/css/main.79ec91ad.chunk.css.map": "/Gastos/static/css/main.79ec91ad.chunk.css.map",
     "static/js/2.1ee8df4b.chunk.js.LICENSE.txt": "/Gastos/static/js/2.1ee8df4b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.18ae09c8.js",
     "static/js/2.1ee8df4b.chunk.js",
-    "static/css/main.cc48a707.chunk.css",
+    "static/css/main.79ec91ad.chunk.css",
     "static/js/main.113bb52d.chunk.js"
   ]
 }
