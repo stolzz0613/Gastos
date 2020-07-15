@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4c87977108454a82c6571ce50133843",
+    "revision": "b1450a2632dc48aa58bbe5c8beb9cdc2",
     "url": "/Gastos/index.html"
   },
   {
-    "revision": "c8f3d66a9a5692b4d3a3",
-    "url": "/Gastos/static/css/main.79ec91ad.chunk.css"
+    "revision": "bf648db3ac84e813872b",
+    "url": "/Gastos/static/css/main.3731e76d.chunk.css"
   },
   {
     "revision": "dfe1586df5c063fc702d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Gastos/static/js/2.1ee8df4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8f3d66a9a5692b4d3a3",
-    "url": "/Gastos/static/js/main.113bb52d.chunk.js"
+    "revision": "bf648db3ac84e813872b",
+    "url": "/Gastos/static/js/main.85ded738.chunk.js"
   },
   {
     "revision": "a54f4b39ae09af3b4b7d",

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Gastos/static/css/main.79ec91ad.chunk.css",
-    "main.js": "/Gastos/static/js/main.113bb52d.chunk.js",
-    "main.js.map": "/Gastos/static/js/main.113bb52d.chunk.js.map",
+    "main.css": "/Gastos/static/css/main.3731e76d.chunk.css",
+    "main.js": "/Gastos/static/js/main.85ded738.chunk.js",
+    "main.js.map": "/Gastos/static/js/main.85ded738.chunk.js.map",
     "runtime-main.js": "/Gastos/static/js/runtime-main.18ae09c8.js",
     "runtime-main.js.map": "/Gastos/static/js/runtime-main.18ae09c8.js.map",
     "static/js/2.1ee8df4b.chunk.js": "/Gastos/static/js/2.1ee8df4b.chunk.js",
     "static/js/2.1ee8df4b.chunk.js.map": "/Gastos/static/js/2.1ee8df4b.chunk.js.map",
     "index.html": "/Gastos/index.html",
-    "precache-manifest.03afb8eb55177896ce6de5c3882c63e4.js": "/Gastos/precache-manifest.03afb8eb55177896ce6de5c3882c63e4.js",
+    "precache-manifest.78fe37ff1f43aa601b51c0626504b708.js": "/Gastos/precache-manifest.78fe37ff1f43aa601b51c0626504b708.js",
     "service-worker.js": "/Gastos/service-worker.js",
-    "static/css/main.79ec91ad.chunk.css.map": "/Gastos/static/css/main.79ec91ad.chunk.css.map",
+    "static/css/main.3731e76d.chunk.css.map": "/Gastos/static/css/main.3731e76d.chunk.css.map",
     "static/js/2.1ee8df4b.chunk.js.LICENSE.txt": "/Gastos/static/js/2.1ee8df4b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.18ae09c8.js",
     "static/js/2.1ee8df4b.chunk.js",
-    "static/css/main.79ec91ad.chunk.css",
-    "static/js/main.113bb52d.chunk.js"
+    "static/css/main.3731e76d.chunk.css",
+    "static/js/main.85ded738.chunk.js"
   ]
 }
